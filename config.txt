@@ -1,18 +1,18 @@
 {
 # 公众号配置
 # 公众号appId，替换掉下方文字内容，不要删除双引号
-"app_id": "填入你的测试号app_id",
+"app_id": "wx15e34edb3281839c",
 # 公众号appSecret，替换掉下方文字内容，不要删除双引号
-"app_secret": "填入你的测试号app_secret",
+"app_secret": "bb60af0684eca588174840d5c1fb5708",
 # 模板消息id，替换掉下方文字内容，不要删除双引号
-"template_id": "填入你的template_id",
+"template_id": "Dv2WQ1-GItWjiOEc8GBXYmYLROL_5PppCffFR1zxnJw",
 # 接收公众号消息的微信号（user-id），如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["填入你的微信号"],
+"user": ["oRBlR6bW9kGwzYrcO-k2jgQIiRKk"],
 # 信息配置
 # 所在省份
-"province": "安徽",
+"province": "福建",
 # 所在城市
-"city": "池州",
+"city": "闽侯",
 # 生日1，如果生日为农历，在最前面加上r即可，如r1999-01-01
 "birthday1": "r2002-12-24",
 # 生日2
@@ -59,7 +59,7 @@
 #这个API本程序目前只提取了当天的天气情况，只会给出当天降雨量以及出行建议。
 #如果需要提取未来日期需要等待开发，或者自行更改源码。
 
-"tianqi_API":"替换掉我",
+"tianqi_API":"5cee79634a79acd02439aef5887eaf9d",
 
 ###注意要在消息模板中加入{{tianqi.DATA}}，才能够正常显示
 
